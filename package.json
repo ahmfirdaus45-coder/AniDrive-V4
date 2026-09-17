@@ -1,0 +1,10 @@
+{
+  "name": "anidrive-v21.26.18",
+  "version": "21.26.18",
+  "private": true,
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"},
+  "dependencies": {"express": "^4.21.2", "ffmpeg-static": "^5.2.0", "redis": "^4.7.0"},
+  "description": "AniDrive V21.26.18: Hstream canonical title identity and persistent media memory"
+}
